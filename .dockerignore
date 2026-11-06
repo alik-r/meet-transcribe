@@ -1,0 +1,3 @@
+# Only dependencies go in the image; recordings, transcripts and .env stay out.
+*
+!requirements.txt

@@ -1,0 +1,20 @@
+.env
+__pycache__/
+
+# Recordings, including any left outside meet-audio/
+meet-audio/
+transcripts/
+.transcribe-cache/
+*.aac
+*.flac
+*.m4a
+*.mkv
+*.mov
+*.mp3
+*.mp4
+*.ogg
+*.opus
+*.wav
+*.webm
+*.wma
+*:Zone.Identifier
